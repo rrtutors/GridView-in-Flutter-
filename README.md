@@ -1,7 +1,6 @@
-# flutter_gridview
+# GridView-in-Flutter
 
-A new Flutter application.
-
+This Repo will explain how to Arrange the List data in GridView with all its Con
 ## Getting Started
 
 This project is a starting point for a Flutter application.
